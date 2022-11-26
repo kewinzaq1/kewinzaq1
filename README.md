@@ -1,6 +1,5 @@
 
-# Self Taught Full Stack Developer. Motivated by money and fun. 
-## I'll help you makes your product stable and fast
+# I'll help you makes your product stable and fast
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kewinzaq1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
