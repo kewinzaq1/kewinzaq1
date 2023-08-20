@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kewin</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-- 🔭 I’m currently working on [winsze-t3](https://github.com/kewinzaq1/winsze-t3)
-
-- 🌱 I’m currently learning **React, Vue, NodeJS, tRPC, TypeScript**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 💬 Ask me about **React, Vue, NodeJS, tRPC, TypeScript**
+- 💬 Ask me about **React, Vue, React Native, NodeJS, TypeScript**
 
 - 📫 How to reach me **kewinszlezingier@gmail.com**
 
